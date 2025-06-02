@@ -4,10 +4,10 @@ import random
 class Config:
     accounts = [
         {
-            "client_id": "",
-            "client_secret": "",
-            "username": "",
-            "password": "",
+            "client_id": "vp6qhCl2yzg8z7AcqD8esg",
+            "client_secret": "1xbb9e2uiifYu8wagtzz9X8T9qsMGQ",
+            "username": "codej4ckal",
+            "password": "Zacky@4148",
         },
         # Add more accounts as needed
         {
@@ -23,7 +23,7 @@ class Botconfig:
         # Add more proxies as needed
     ]
     
-    new_posts = False
+    new_posts = True
     
     # Interval between posts or comments in minutes
     cooldown = 10 
@@ -40,13 +40,13 @@ class Botconfig:
     
     ads = [
         '''
-        Advertisement 1: Type what u want to advertise here the exact same message will be commented on random posts!
+        Advertisement 1: in providing paid hacking services @codej4ckal on tg!
         ''',
         '''
-        Advertisement 2: Another ad message here!
+        Advertisement 2: i can teach you hacking and cybersecurity @codej4ckal on tg!
         ''',
         '''
-        Advertisement 3: Yet another ad message here!
+        Advertisement 3: hacking services and teaching available @codej4ckal on tg!
         ''',
     ]
     
