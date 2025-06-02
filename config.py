@@ -7,7 +7,7 @@ class Config:
             "client_id": "vp6qhCl2yzg8z7AcqD8esg",
             "client_secret": "1xbb9e2uiifYu8wagtzz9X8T9qsMGQ",
             "username": "codej4ckal",
-            "password": "Zacky@4148",
+            "password": "jackalbot4148",
         },
         # Add more accounts as needed
         {
