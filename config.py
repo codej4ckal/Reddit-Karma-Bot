@@ -4,10 +4,10 @@ import random
 class Config:
     accounts = [
         {
-            "client_id": "vp6qhCl2yzg8z7AcqD8esg",
-            "client_secret": "1xbb9e2uiifYu8wagtzz9X8T9qsMGQ",
-            "username": "codej4ckal",
-            "password": "jackalbot4148",
+            "client_id": "Ml9BPWRAddqa4Y2w3De1pg",
+            "client_secret": "_kJUkbAmy1dwTKkLBLgfJHg5lWJTnA",
+            "username": "codegh4st",
+            "password": "richby2030",
         },
         # Add more accounts as needed
         {
